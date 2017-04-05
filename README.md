@@ -1,9 +1,9 @@
 # Python-Spirograph
 
-Recreated my favorite childhood toy
+Here I'm recreating my favorite childhood toy
 with simple nested Python loops
  
-These little scripts create a pane and draw geometric shapes, like a spirograph.
+These little scripts create a pane and draw geometric shapes on it, like a spirograph.
 
 ## You will get the following:
 
